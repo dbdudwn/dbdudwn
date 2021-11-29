@@ -3,7 +3,8 @@
 - 🌱 I am currently studying linux and Spring Boot, React!
 - 📫 The email to contact is dbdudwn3905@naver.com!
 
-<!---
-dbdudwn/dbdudwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[ Front › React & React-Native ]
+
+[ Back › JAVA & JPA & Node.js ]
+
+[ Etc › AWS, centOS ( Linux ), DB ( Maria, Heidi, MySql, Postgres ) ]
